@@ -1,0 +1,12 @@
+
+.help-block {
+  color: red;
+  text-transform: capitalize;
+  position: absolute;
+  top: 48px;
+}
+
+.form-group {
+  position: relative;
+  margin-bottom: 48px;
+}
