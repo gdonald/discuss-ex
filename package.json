@@ -12,7 +12,8 @@
     "braces": ">=2.3.1",
     "clean-css": ">=4.1.11",
     "growl": ">=1.10.0",
-    "lodash": ">=4.17.13"
+    "lodash": ">=4.17.13",
+    "kind-of": ">=6.0.3"
   },
   "devDependencies": {
     "babel-brunch": "^7.0.1",
